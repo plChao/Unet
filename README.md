@@ -1,4 +1,5 @@
 # Unet
+> this is the binary version (now for tooth mask)
 ## 初始步驟
 
 1. clone github
