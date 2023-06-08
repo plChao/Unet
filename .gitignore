@@ -6,3 +6,4 @@
 *.json
 *.zip
 *.docx
+**__pycache__
