@@ -7,3 +7,4 @@
 *.zip
 *.docx
 **__pycache__
+record/*
